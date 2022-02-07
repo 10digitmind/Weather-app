@@ -68,6 +68,6 @@
 
 
 
-// console.log(weather.fetchWeather("manchEster"))
+(weather.fetchWeather("manchester"))
 
 
